@@ -1,6 +1,6 @@
 # hospital management system (mini project) in c
-The objective of this mini-project is to develop a hospital management system that will allow users to add, create, search, modify, list and delete patient records.
-Le système doit être facile à utiliser et doit inclure des fonctionnalités de validation des données pour garantir la précision des informations saisies. Le système doit également être capable de fournir des informations pertinentes sur les patients rapidement et efficacement pour faciliter la prise de décision des professionnels de santé. Le but ultime est de fournir un outil de gestion des dossiers de patients fiable et efficace pour les professionnels de la santé travaillant dans un hôpital ou une clinique.
+The objective of this mini-project is to develop a hospital management system that allows users to add, create, search, modify, list, and delete patient records.
+The system should be user-friendly and include data validation features to ensure the accuracy of entered information. Additionally, it should be capable of swiftly and efficiently providing relevant patient information to aid healthcare professionals in decision-making. The ultimate goal is to provide a reliable and efficient patient record management tool for healthcare professionals working in hospitals or clinics.
 # - Features:
 The main features of the hospital management system are as follows
 1. Add a new patient:
